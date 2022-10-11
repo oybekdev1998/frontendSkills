@@ -12,3 +12,4 @@
 * [Шпаргалка по регулярным выражениям в JavaScript](https://proglib.io/p/shpargalka-po-regulyarnym-vyrazheniyam-v-javascript-2022-07-17)
 * [40 основных и нестандартных методов для работы со строками в JavaScript](https://proglib.io/p/40-osnovnyh-i-nestandartnyh-metodov-dlya-raboty-so-strokami-v-javascript-2022-05-19)
 * [☕ Распространенные алгоритмы и структуры данных в JavaScript: полезные алгоритмы для веб-разработки](https://proglib.io/p/realizaciya-rasprostranennyh-algoritmov-i-struktur-dannyh-v-javascript-poleznye-algoritmy-dlya-veb-razrabotki-2021-11-19)
+* [7 малоизвестных команд и приемов Git](https://telegra.ph/7-maloizvestnyh-komand-i-priemov-Git-10-11)
